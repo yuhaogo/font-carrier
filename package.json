@@ -15,7 +15,7 @@
     "lodash": "^4.17.21",
     "multiline": "^2.0.0",
     "opentype.js": "^1.1.0",
-    "svg2ttf": "^5.2.0",
+    "svg2ttf2": "^1.0.0",
     "svg_pathify": "^0.0.8",
     "svgpath": "^2.3.1",
     "ttf2eot": "^2.0.0",
